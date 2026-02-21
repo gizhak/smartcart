@@ -1,5 +1,12 @@
 # Mister Charts - Initial Plan
 
+## TODO
+
+- [x] Review plan file
+- [x] Inspect `package.json` and scripts
+- [x] Start dev server
+- [ ] Verify app loads in browser
+
 ## Project Overview
 Create a web application that allows users to create beautiful animated charts and export them as GIFs or PNGs.
 
