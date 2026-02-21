@@ -1,0 +1,18 @@
+.app-footer {
+    border-top: 1px solid #e6e6e6;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    color: #374151;
+}
+
+.app-footer .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-footer .muted {
+    color: #9ca3af
+}
